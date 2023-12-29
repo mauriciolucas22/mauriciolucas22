@@ -1,18 +1,23 @@
+<img width="100%" height = "300px" src="./assets/mastermind.gif" alt="cover" />
+
 <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1EF707&background=0A150100&center=true&vCenter=true&width=1100&lines=console.log(%22Jesus+loves+you!%22)+"></div>
 
-Hi 👋 My name is Mauricio Lucas
-===============================
+<h1 align="center">Hi everyone! 👋 My name is Mauricio Lucas</h1>
 
 I am software developer and devops
 
-* 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [Blog](http://mauriciolucas22.github.io/)
-* 🧠  I'm learning AI
-* ⚡  I love Jesus Christ
+- 🌍 I'm based in Brazil
+- 🖥️ See my portfolio at [Blog](http://mauriciolucas22.github.io/)
+- 🧠 I'm learning AI
+- ⚡ I love Jesus Christ
 
-### Skills
+<p><img align="right" alt="side-gif" width="300" src="./assets/codingguy.gif" /></p>
 
-<p align="left">
+<p>&nbsp;</p>
+
+<h3 align="left">Languages and tools I've pick up on my coding journey so far:</h3>
+
+<p align="left"> 
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
 
