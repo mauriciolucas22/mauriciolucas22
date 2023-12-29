@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com?size=30&color=1EF707&background=0A150100&center=true&vCenter=true&width=1100&lines=console.log(%22Jesus+loves+you!%22)+"></div>
+
 Hi 👋 My name is Mauricio Lucas
 ===============================
 
